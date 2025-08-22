@@ -1,7 +1,7 @@
 # 🍭 Horizon Candy
 
 A minimalist, vibrant, and colorful theme inspired by the "candy" aesthetic and the light of the horizon.
-
+![screenshot](https://github.com/Henriquehnnm/horizon-candy/blob/main/screenshot.png?raw=true)
 
 ## 🎨 Colors and Style
 
