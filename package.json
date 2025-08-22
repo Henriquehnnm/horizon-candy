@@ -3,7 +3,7 @@
   "displayName": "Horizon Candy",
   "description": "A vibrant, minimalist, and colorful VSCode theme inspired by candy colors and the horizon light.",
   "icon": "horizon-candy.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Henriquehnnm", 
   "engines": {
     "vscode": "^1.103.0"
