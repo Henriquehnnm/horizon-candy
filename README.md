@@ -22,21 +22,21 @@ A minimalist and vibrant color theme for VS Code, inspired by candy colors and t
 
 This theme is built around a palette of strong, sweet colors with a dark background that makes code pop.
 
-* **Vibrant Purple (#C6A7FF):** Used for keywords and highlight elements.
-* **Pastel Green (#7cffcd):** Used for strings, classes, and details.
-* **Sweet Pink (#FF99C0):** Ideal for functions and HTML tags.
-* **Light Blue (#9AEBEE):** For variables, numbers, and operators.
-* **Warm Orange (#FFC887):** For boolean values and comments.
+* **Vibrant Purple (#C6A7FF):**
+* **Pastel Green (#7cffcd):**
+* **Sweet Pink (#FF99C0):**
+* **Light Blue (#9AEBEE):**
+* **Warm Orange (#FFC887):**
 
 ### ☀️ Horizon Candy Milk (Light Theme)
 
 A softer and lighter version, maintaining the same "candy" aesthetic with more delicate colors and a light background for those who prefer to code with more light.
 
-* **Vibrant Purple (#8A31B9):** Used for keywords and highlight elements.
-* **Pastel Green (#059E66):** Used for strings, classes, and details.
-* **Sweet Pink (#DA103F):** Ideal for functions and HTML tags.
-* **Light Blue (#26BBD9):** For variables, numbers, and operators.
-* **Warm Orange (#F77D26):** For boolean values and comments.
+* **Vibrant Purple (#8A31B9):**
+* **Pastel Green (#059E66):**
+* **Sweet Pink (#DA103F):**
+* **Light Blue (#26BBD9):**
+* **Warm Orange (#F77D26):**
 
 ## 📥 How to Install
 
