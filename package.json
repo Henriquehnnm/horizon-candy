@@ -3,15 +3,15 @@
   "displayName": "Horizon Candy",
   "description": "A vibrant, minimalist, and colorful VSCode theme inspired by candy colors and the horizon light.",
   "icon": "horizon-candy.png",
-  "version": "1.0.1",
-  "publisher": "Henriquehnnm", 
+  "version": "1.1.0",
+  "publisher": "Henriquehnnm",
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
   ],
-  "keywords": ["candy", "colorful", "minimalist", "vibrant", "horizon"],
+  "keywords": ["candy", "colorful", "minimalist", "vibrant", "horizon", "light", "milk"],
   "repository": {
     "type": "git",
     "url": "https://github.com/Henriquehnnm/horizon-candy"
@@ -25,9 +25,13 @@
         "label": "Horizon Candy",
         "uiTheme": "vs-dark",
         "path": "./themes/Horizon-candy.json"
+      },
+      {
+        "label": "Horizon Candy Milk",
+        "uiTheme": "vs",
+        "path": "./themes/Horizon-candy-milk.json"
       }
     ]
   },
   "license": "MIT"
 }
-
