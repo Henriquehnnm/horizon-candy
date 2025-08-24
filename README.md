@@ -11,10 +11,10 @@ A minimalist and vibrant color theme for VS Code, inspired by candy colors and t
 ## Screenshots
 
 **Horizon Candy**
-[!Dark](https://raw.githubusercontent.com/Henriquehnnm/horizon-candy/refs/heads/main/screenshot.png)
+![Dark](https://raw.githubusercontent.com/Henriquehnnm/horizon-candy/refs/heads/main/screenshot.png)
 
 **Horizon Candy Milk**
-[!Milk](https://raw.githubusercontent.com/Henriquehnnm/horizon-candy/refs/heads/main/screenshot-milk.png)
+![Milk](https://raw.githubusercontent.com/Henriquehnnm/horizon-candy/refs/heads/main/screenshot-milk.png)
 
 ## 🎨 Theme Variations
 
