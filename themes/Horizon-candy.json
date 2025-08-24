@@ -78,7 +78,7 @@
     "editorBracketMatch.border": "#6C6F9300",
     "editorOverviewRuler.border": "#2E303ED0",
     "editorOverviewRuler.findMatchForeground": "#6C6F93",
-    "editorOverviewRuler.modifiedForeground": "#9AEBEEA0",
+    "editorOverviewRuler.modifiedForeground": "#87CEFAA0",
     "editorOverviewRuler.addedForeground": "#7cffcdA0",
     "editorOverviewRuler.deletedForeground": "#FF6B81A0",
     "editorOverviewRuler.errorForeground": "#FF6B81E6",
@@ -86,7 +86,7 @@
     "editorOverviewRuler.bracketMatchForeground": "#c9c3d6A0",
     "editorError.foreground": "#FF6B81",
     "editorWarning.foreground": "#7cffcd",
-    "editorGutter.modifiedBackground": "#9AEBEEB3",
+    "editorGutter.modifiedBackground": "#87CEFAB3",
     "editorGutter.addedBackground": "#7cffcdB3",
     "editorGutter.deletedBackground": "#FF6B81B3",
     "diffEditor.insertedTextBackground": "#7cffcd20",
@@ -151,7 +151,7 @@
       "scope": "constant.character.escape",
       "settings": { "foreground": "#7cffcdFF" }
     },
-    { "scope": "entity.name", "settings": { "foreground": "#9AEBEEFF" } },
+    { "scope": "entity.name", "settings": { "foreground": "#87CEFAFF" } },
     {
       "scope": "entity.name.function",
       "settings": { "foreground": "#7cffcdFF" }
@@ -170,7 +170,7 @@
     },
     {
       "scope": "entity.other.inherited-class",
-      "settings": { "foreground": "#9AEBEEFF" }
+      "settings": { "foreground": "#87CEFAFF" }
     },
     {
       "scope": "entity.other.attribute-name.id",
@@ -181,7 +181,7 @@
         "entity.other.attribute-name.pseudo-element",
         "entity.other.attribute-name.pseudo-class"
       ],
-      "settings": { "foreground": "#9AEBEEFF" }
+      "settings": { "foreground": "#87CEFAFF" }
     },
     {
       "scope": ["entity.name.variable", "variable"],
@@ -207,7 +207,7 @@
     },
     {
       "scope": "markup.quote",
-      "settings": { "foreground": "#9AEBEEB3", "fontStyle": "italic" }
+      "settings": { "foreground": "#87CEFAB3", "fontStyle": "italic" }
     },
     {
       "scope": ["markup.heading", "entity.name.section"],
@@ -227,7 +227,7 @@
     },
     {
       "scope": "markup.underline.link",
-      "settings": { "foreground": "#9AEBEE" }
+      "settings": { "foreground": "#87CEFA" }
     },
     {
       "scope": "storage",
@@ -235,7 +235,7 @@
     },
     {
       "scope": ["string.quoted", "string.template"],
-      "settings": { "foreground": "#9AEBEEFF" }
+      "settings": { "foreground": "#87CEFAFF" }
     },
     { "scope": "string.regexp", "settings": { "foreground": "#FFC887FF" } },
     { "scope": "string.other.link", "settings": { "foreground": "#FFC887FF" } },

@@ -25,7 +25,7 @@ This theme is built around a palette of strong, sweet colors with a dark backgro
 * **Vibrant Purple (#C6A7FF):**
 * **Pastel Green (#7cffcd):**
 * **Sweet Pink (#FF99C0):**
-* **Light Blue (#9AEBEE):**
+* **Light Blue (#87CEFA):**
 * **Warm Orange (#FFC887):**
 
 ### ☀️ Horizon Candy Milk (Light Theme)
